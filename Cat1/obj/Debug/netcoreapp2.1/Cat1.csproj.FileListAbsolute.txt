@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\Cat1\Cat1\bin\Debug\netcoreapp2.1\Cat1.deps.json
+C:\Users\opilane\source\repos\Cat1\Cat1\bin\Debug\netcoreapp2.1\Cat1.runtimeconfig.json
+C:\Users\opilane\source\repos\Cat1\Cat1\bin\Debug\netcoreapp2.1\Cat1.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Cat1\Cat1\bin\Debug\netcoreapp2.1\Cat1.dll
+C:\Users\opilane\source\repos\Cat1\Cat1\bin\Debug\netcoreapp2.1\Cat1.pdb
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.dll
+C:\Users\opilane\source\repos\Cat1\Cat1\obj\Debug\netcoreapp2.1\Cat1.pdb
